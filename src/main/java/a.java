@@ -24,5 +24,6 @@ public class a {
          System.out.println("pull");
          System.out.println("pull");
          System.out.println("yyyyyyy");
+        System.out.println("pdljksl");
     }
 }
