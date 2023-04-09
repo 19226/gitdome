@@ -7,5 +7,12 @@ public class a {
         System.out.println("hello git second3");
         System.out.println("hello git second3");
         System.out.println("hello git second3");
+        System.out.println("hello git sssss");
+        System.out.println("hello git sssss1");
+        System.out.println("hello git sssss1");
+        System.out.println("hello git sssss1");
+        System.out.println("hello git sssss1");
+        System.out.println("hello git sssss1");
+        System.out.println("push");
     }
 }
