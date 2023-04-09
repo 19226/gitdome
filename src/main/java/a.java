@@ -19,5 +19,6 @@ public class a {
         System.out.println("push");
         System.out.println("push");
         System.out.println("push");
+         System.out.println("pull");
     }
 }
